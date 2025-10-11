@@ -1,6 +1,5 @@
 import csv
 import json
-from typing import List, Dict, Any
 
 
 def converter_csv_to_json(csv_file, json_file):
