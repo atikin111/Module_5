@@ -65,7 +65,6 @@ import json
 # JSON and CSV
 import json
 import csv
-from collections import defaultdict
 
 with open('employees.json', 'r', encoding='utf-8') as file_json, open('performance.csv', 'r', encoding='utf-8') as file_csv:
     # Считываем данные с файлов
